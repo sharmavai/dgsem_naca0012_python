@@ -1,0 +1,2692 @@
+R. & M. No. 3726
+
+r~,' ~ , ' ~
+
+?.17 ~ : ? / , ~
+
+"' ,,o ~))
+
+MINISTRY
+
+,
+
+~ ~' '
+
+OF DEFENCE
+
+(PROCUREMENT
+
+EXECUTIVE)
+
+AERONAUTICAL RESEARCH COUNCIL
+REPORTS A N D M E M O R A N D A
+
+Low-Speed Aerodynamic Characteristics of NACA 0012
+Aerofoi] Section, including the Effects of Upper-Surface
+Roughness Simulating Hoar Frost
+B y N . GREGORY a n d C. L. O'REILLY
+
+Aerodynamics Division N.P.L.
+
+L O N D O N : H E R MAJESTY'S S T A T I O N E R Y O F F I C E
+1973
+PRICE £1-35 NET
+
+Low-Speed Aerodynamic Characteristics of NACA 0012
+Aerofoil Section, including the Effects of Upper-Surface
+Roughness Simulating Hoar Frost
+By N. GREGORY and C. L. O'REILLY
+Aerodynamics Division, N.P.L.
+
+Reports and Memoranda No. 3726*
+January, 1970
+
+Summary
+Results are presented for the aerodynamic characteristics of NACA 0012 aerofoil section at Reynolds
+numbers of 2-88 x 106 and 1.44 x 10 6 with some indications of scale effect at other Reynolds numbers. The
+measurement of CLmax at a Reynolds number of 2-88 x 10 6 is uncertain for two reasons. On the one hand,
+a laminar separation bubble disappears intermittently for reasons that are not fully understood. On the other,
+it was found that the flow broke down into a three-dimensional pattern when an appreciable extent of separation was present. This is a major problem. Boundary-layer control by suction in the vicinity of the wing/wall
+junction is shown to improve the two-dimensionality in the early stages of separation, but does not inhibit the
+appearance of three-dimensional flow at and beyond the stall.
+Distributed roughness was progressively applied from the trailing edge forwards over the upper surface of
+the aerofoil. Both sparse and dense distributions were used and they were intended to simulate the hoar frost
+deposit remaining after partial cleaning of the forward part of the aerofoil. Subject to the above qualifications,
+CLmax is not greatly reduced until the front edge of the roughness extends forward of 0.1 chord, at which stage
+also the drag increment due to the roughness rapidly becomes much larger.
+
+* Replaces A.R.C. 31 719.
+
+LIST OF CONTENTS
+1. Introduction
+2. Test Arrangements
+3. Basic Tests of NACA 0012 Profile
+4. Tests with Distributed Roughness progressively covering the Upper Surface
+5. Discussion and Conclusions
+Acknowledgement
+List of Symbols
+References
+Appendix--The influence of test conditions on CLm.xand on the three-dimensional flow development at the
+stall.
+Tables 1 to 4.
+Illustrations Figs. 1 to 16.
+Detachable Abstract Cards.
+
+1. Introduction
+This report describes tests that were carried out in the N.P.L. 13 ft x 9 ft (4.0 m x 2.7 m) low-speed wind
+tunnel on a two-dimensional model of NACA 0012 aerofoil. The tests were undertaken mainly because
+NACA 0012 is a section which has been used for helicopter rotor blades for a considerable number of years,
+and a programme of aerofoil development was under way in order to improve the performance capabilities
+of rotors. The first improved sections consisted of local modifications to the NACA 0012 profile, which
+helped to make them more acceptable to helicopter designers. As a yardstick for comparative purposes it was
+therefore necessary to measure the performance of NACA 0012 in N.P.L. wind tunnels at both high and low
+Mach numbers.
+The high speed tests were carried out at Mach numbers between 0.3 and 0-85 in the N.P.L. 36 in. x 14 in.
+(0.92 m x 0.36 m) transonic wind tunnel and are reported in Ref. 1. The 0-254 m (10 in.) chord model used
+gave a Reynolds number which varied with Mach number in the range 1.7 x 106 to 3.75 x 106, and at a given
+Mach number was only about one half of that at which helicopter rotor blades operate.
+The present tests (Section 3) were carried out with a 0-76 m (2.5 ft) chord aerofoil at varying speeds up to
+the top speed of the tunnel, 55 m/s (180 ft/s), where the Reynolds number was 2.88 x 106 and the Mach number
+was 0-16. This speed was thus still low enough for compressibility to have little influence, even at CL. . . . but
+at the given Mach number the Reynolds number exceeded that at which current helicopter rotor blades operate,
+so that the tests provide relevant data which should cover likely extensions in rotor blade size for some time
+to come.
+NACA 0012 is a problematic section in respect of its stalling behaviour as, according to the classification
+of Gault, 2 it lies on the boundary between two types. On the one hand it might have a trailing-edge stall at
+all Reynolds numbers, but on the other it might be that an intermediate range of Reynolds numbers exists
+over which the section exhibits a combined leading-edge and trailing-edge type stall. This implies that above
+some Reynolds number within the range of the tests, the aerofoil starts to stall with turbulent-boundary-layer
+separation moving forward from the trailing edge, but the flow breakdown is completed by an existing laminar
+separation of the flow in the leading-edge region failing to re-attach. At some higher Reynolds number, however,
+transition from laminar to turbulent flow would be expected to precede laminar separation so that the stall
+would then be entirely controlled by the forward movement of turbulent separation. There were some indications during the early tests that this had already occurred at the maximum test Reynolds number of 2.88 x
+1 0 6 , but later the laminar bubble (which diminishes in size with increasing incidence) remained obstinately
+present up to the stall, fully justifying the description of the section as a problematic one, particularly as the
+bubble was also present beyond the stall and it was not clear whether the bubble played an active part in the
+stalling process or not.
+The opportunity was also taken of measuring the sectional aerodynamic characteristics with the upper
+surface of the aerofoil progressively covered with distributed roughness extending from the trailing edge
+forwards to some variable position (Section 4). The object of these tests was to elucidate information of interest
+primarily to the operators of fixed-wing aircraft. Current practice 3 is to completely defrost the upper surface
+of the wings of aircraft that have been left out overnight and are subjected to roughening by frost deposition.
+Considerable operating economies could be effected if the extent of wing which had to be defrosted could be
+reduced. It seemed probable that the loss of maximum lift known to be associated with a roughened wing
+was more likely to be due to the presence of the roughness at the leading edge than further aft, and the present
+tests on a simple aerofoil with neither leading-edge nor trailing-edge devices were undertaken to confirm
+this. The uncertainty about the type of stall was not fully appreciated when the decision to undertake the work
+was made, and so it is beyond the scope of the tests to shed light on the situation at full-scale Reynolds numbers,
+or for other aerofoils with leading and trailing-edge devices. Much more work would be required. However,
+the present data with roughness are of much wider interest.
+In view of the emphasis on the measurement of CL m,x for both helicopter and fixed wing interests, considerable
+effort was devoted (see Section 2 and Appendix) to obtaining as nearly two-dimensional test conditions as
+possible, so as to increase the accuracy of measurement and enable proper comparisons to be drawn between
+this and the modified sections. Despite these attentions, however, it was found that three-dimensional flows
+are present beyond the stall. This confirms the observations of Moss and Murdin, 4 and there is some evidence
+suggesting that these flow patterns are developing prior to the attainment of maximum lift. There is thus some
+doubt in the absence of pressure-plotting information at a number of spanwise stations as to whether the
+maximum lift measured in these experiments is the genuine two-dimensional CLm,x required to complete
+sectional data. The three-dimensionality also raises some doubt as to how far lifting-line type loading calculations may be continued beyond the stall, as is done for helicopter rotors. This point is discussed at much greater
+
+length in a companion paper 5 where further research plans are described. For these reasons the scatter of the
+present measurements is fully discussed here. It is hoped that this will enable worthwhile conclusions about
+the effects of test conditions, Reynolds number and roughness conditions on CLmax to be reached with some
+degree of confidence.
+2. Test Arrangements
+The NACA 0012 aerofoil section was first reported on in 1932, 6 and the following formulae for its thickness
+distribution and leading-edge radius are taken from Ref. 7.
++_y/c = 0.60[0.29690x//~ - O.12600x/c - 0.35160(X/C) 2 + 0-28430(x/c) 3 - O.10150(x/c) ¢]
+and
+Ro/c = 0.0158.
+A detailed list of ordinates is given in Table 1, together with surface slopes and curvatures.
+The model was machined from light alloy and was of 0.76 m (30 in) chord and 2.7 m (9 ft) span, thus spanning
+vertically the smaller dimension of the tunnel working section. The planform aspect ratio was 3.6: for the model
+tested in the high-speed wind tunnel, the value was 1-4.
+Lift and quarter-chord pitching moment were obtained by integration from the distribution of pressure
+around the centre section of the model, measured at 43 static-pressure-hole stations in the surface of the model.
+The holes lay in a spanwise band within + 90 m m (_+ 3.5 in) from the centre-line of the model.
+Profile drag was obtained from measurements of total-pressure, loss in the wake with a comb of 33 totalpressure tubes of 1.0 m m (0.040 in) diameter and 2 static-pressure tubes of 2-9 m m (0-115 in) diameter, located
+0.1 chord downstream of the aerofoil trailing edge. The total-pressure tubes were arranged in two adjacent
+tiers 25 m m (1-0 in) apart, with tube positions staggered so that the close minimum effective tube spacing of
+2.29 m m (0.09 in) was achieved in the centre of the wake, although adjacent tubes in the same tier remained
+twice as far apart, thus minimising interference. In order to measure high drag coefficients just below the stall,
+the total span of the comb was 195 m m (7.7 in). At high incidences the whole comb was rotated and traversed
+to align the axis of the centre tube with the local flow direction at the centre of the wake.
+The wake comb and the surface static-pressure holes were connected in turn by a manually operated pressure
+switch to a 48-way automatic-scanning pressure switch. This contained a _+3.5 x 104 N / m z (_+5 lbf/in 2)
+differential temperature-compensated resistance-strain-gauge pressure transducer which was connected in
+turn to each port of the switch as it scanned. The amplified signal from the transducer was sampled at each
+port by a digital voltmeter after a pre-set delay (to allow the pressures to reach equilibrium) and the reading
+was typed on a teleprinter and a punched paper tape produced for reduction of the data by computer. Between
+each port, the transducer was exposed to a constant pressure higher than the stagnation pressure, thus eliminating hysteresis errors. Used in this way an almost linear calibration curve was obtained.
+Both measurement of lift and moment by pressure plotting and measurement of drag by wake traverse are
+integral processes, so that errors in individual readings tend to be meaned out statistically. There are two
+exceptions : in the case of free-stream dynamic pressure, an error in reading either side of the pitot-static difference would cause a corresponding error in the final coefficient ; and in the case of measurement of the total
+pressure at either edge of the wake, an error affects the whole base line relative to which the total pressure deficit
+is measured. The latter error is more important since the mean total pressure deficit over the width of the wake
+is only 15 per cent to 25 per cent of the free-stream dynamic pressure.
+The overall accuracy of the system was in fact limited by tunnel unsteadiness, and the error was estimated
+to be about 1 per cent on maximum lift coefficient and rose to as much as 3 per cent on the smallest drag coefficient. Nevertheless~ such possibilities of error were by no means the biggest uncertainties in the experiment.
+Standard corrections have been applied to incidence, lift coefficient and pitching moment coefficient to
+account for lift constraint in the closed working section for conditions below the stall. Solid and wake blockage
+corrections have been ignored: they are certainly small at small angles of attack, although solid blockage
+rises with increase of incidence and may approach 0.5 per cent on velocity as the incidence reaches the stalling
+incidence. But three-dimensional flow conditions then set in with bluff-body wakes becoming established
+over only part of the span. Shed vorticity also appreciably affects the local flow incidence in a way that cannot
+readily be determined and was not exactly repeatable. It is therefore very uncertain what corrections should
+be then used, so none has been applied to post-stall measurements.
+
+In order to prevent premature breakdown of the flow occurring in the corners between the ends of the
+model and the tunnel walls, provision was made for the application of boundary-layer control in these regions.
+This took the form of a 160 mm (6-25 in) long by 19 mm (0-75 in) wide forward-facing slot, located immediately
+ahead of the leading edge of the model and wrapped round the turntable disc, covering a 36 degree sector
+measured from the tunnel centre-line in the direction of positive incidence. Thus around the incidence where
+the stall was likely, about one half of the length of the slot intercepted air flowing over the upper surface of
+the model and one half intercepted air flowing over the lower surface of the model. When boundary-layer
+control was in use, maximum available suction was applied, which was sufficient to remove about 0.40 m3/s
+(14 f3/s) of air per slot or, over the limited span of the slot, about one half of the flux in the approaching 100 mm
+(4 in) thick turbulent boundary layer. The sucked air came from the region between the surface and the point
+in the boundary layer where the velocity was 0-95 of the free-stream value and its removal reduced the momentum
+thickness of the layer to about one-eighth of the value upstream of the slot.
+Built into the rear lip of the suction slot was a downstream-facing blowing slot, 2.5 mm (0.1 in) wide. With
+a 6.9 × 105 N/m 2 (100 lbf/in 2) air line, the maximum mass flow available was 0-11 kg/s (0.25 lb/s), comparable
+to that removed by the slot. The purpose of the blowing slot was to re-energize the remaining tunnel-wall
+boundary layer which could not be removed at the suction slot. Slot blowing was excessively noisy, and it
+was not normally used as it was found more convenient to use suction into perforations in the aerofoil itself,
+which in conjunction with the floor slot suction was effective in preventing flow separation in the corners.
+On the aerofoil, 6 rows of 2.5 mm (0-10 in) diameter perforations were drilled uniformly into the first 3 per
+cent of the upper surface at a pitch/diameter ratio of 2.5. The rows extended over 0.305 m (1 ft) span at each
+end of the aerofoil. Each perforation communicated through a smaller diameter throttle hole at the bottom of
+the perforation into a common suction chamber and through a flowmeter and control valve to the suction plant.
+The diameter of the throttle holes varied from row to row to ensure that at the high angles of incidence near
+the stall where a very severe adverse pressure gradient existed, the resistance of the holes matched the available
+pressure difference from the external surface to the common suction chamber, so that with the full head available
+from the suction plant a roughly uniform inflow rate was obtained over the six rows of perforations. The standard
+rate of inflow into the perforations was 0.02 m3/s (0.7 ft3/s) at each end of the model. This was chosen because
+in conjunction with the tunnel wall suction it produced the maximum reduction in stalling incidence, implying
+the largest reduction in downwash at the centre of the model due to the elimination of the corner separation.
+Further increase in suction through the perforations or the application of slot blowing had no further effect
+on stalling incidence (which was not the case when lower rates of suction through the tunnel wall slots was used).
+The distributed suction represented a CQ value of 0.0013 which boundary-layer control experiments have shown 8
+should be enough to raise CLmax by about 0-4. Later in the tests, as explained in the Appendix, it was deemed
+advisable to halve the span of the perforations to improve the two-dimensionality of the turbulent separation
+front on the aerofoil and the local inflow rate was increased.
+The tests were conducted in three separate sessions in the 13 ft × 9 ft wind tunnel. In Session I, the optimum
+use of the boundary-layer control was established (see also the Appendix) and transition measurements were
+made using the china-clay technique. Measurements of lift, pitching moment and profile drag were made at
+two Reynolds numbers, with transition fixed and free. Unfortunately an error in assembly of the turntable
+permitted up to ½ degree rotation of the turntable relative to the incidence indicator" this sometimes occurred
+when the aerofoil stalled at top wind speed. This possibility, which was only discovered after the session was
+completed, rendered the measurements of geometric incidence inaccurate. It did not significantly affect the
+accuracy of measurements of the aerodynamic characteristics themselves.
+In Session II, turntable slippage had been eliminated and definitive measurements were made, transition free,
+at Reynolds numbers of 1.44 × 10 6 and 2.88 × 106, with estimations of CLmax at intermediate and lower
+values. By this time, better understanding of the three-dimensionality of the stall (see Ref. 5 and Appendix)
+had been achieved using a different aerofoil, and check runs were made using the oil-flow technique* to confirm
+that the behaviour of NACA 0012 was qualitatively similar.
+During both the first and second session, some runs were undertaken with the model carrying two large
+rectangular fins, 2 chords long by 1.2 chords span, centred on the mid-chord point of the section and 1.07 m
+* In order to obtain suitable contrast between the oil-flow patterns and the natural finish of the bare aluminium models and to avoid troublesome lighting reflections, saturn-yellow 'Dayglo' powder was added to
+the normal oil mixture and the pattern was illuminated solely with a 40 W. ultra-violet fluorescent lamp.
+This causes the pigment to fluoresce with a light-green glow, and this was photographed through a dark green
+filter. The boundaries of the model were defined by means of strips of paper coated with the saturn-yellow
+placed partly behind the leading and trailing edges.
+
+(42 in) apart. The purpose of these was to examine the stalling behaviour when the planform aspect ratio of the
+model was 1-4, the same as in the 36 in x 14 in transonic tunnel. Unfortunately, the fins were not large enough
+to shield completely the flow past the centre-section of the model from conditions on the outside portions, e.g.
+from induced flow changes due to stalling of the outer portions, and the latter was influenced by the presence
+or otherwise of boundary-layer control on the tunnel floor and ceiling. The limited span measurements could
+only be used qualitatively but some reference will be made to the differences found with this set-up.
+The final test period, Session III, was concerned solely with lift, pitching moment and profile drag measurements made at a Reynolds number of 2-88 x 106 as the upper surface was progressively covered with distributed
+roughness.
+The model was tested at positive incidences only, as the very limited extent of tunnel-wall boundary-layer
+control possible had been offset to suit the upper surface of the model. For the tests in the first session with
+transition fixed, transition devices were required which would cover the range zero degrees to stalling incidence
+without adjustment. Bands of distributed roughness were used, extending for 25 mm (1 in) over the surface
+of the model. They were located from the leading edge to 0-027 chord on the upper surface and from 0.06 to
+0.10 chord on the lower surface. Two sizes of roughness were used, 0.18 mm (0-007 in) and 0.3 mm (0.012 in)
+diameter ballotini. The distributed roughness was prepared by sprinkling the ballotini onto thin strips of
+25 mm wide double-sided self-adhesive tape (which did not of itself effect transition) through the holes in a
+strip of aluminium sheet, to which the tape had been temporarily attached, and which was perforated with
+0.6 mm (0.0235 in) diameter holes at a density of 0.9 holes per mm z (576 per in/) This gave a uniform distribution of roughness, one 0.3 mm ballotini sticking to the tape through each perforation, or in the case of
+0-18 mm ballotini, a cluster of two, or occasionally three ballotini per perforation. The tape was then transferred to the surface of the aerofoil.
+For the tests with distributed roughness simulating hoar fi'ost, 0-3 mm ballotini were again used. On this
+occasion they were sprayed directly onto the wing using a sand-blasting spray gun at low pressure, the wing
+having been made tacky immediately beforehand with a thin coating of shellac. Two distribution densities
+were used as shown by the photographs in Fig. 1. The sparse distribution (a) averaged 0.46 per mm 2 (295 per
+in 2) with a standard deviation of 0.08 per mm 2 (53 per in 2) over the dozen samples examined and the ballotini
+covered 3-3 per cent of the surface area. There were about 10 times as many ballotini in the dense distribution,
+(b), covering about 32 per cent of the surface area, but as the photograph shows, they were not so well dispersed,
+tending to form clumps and strings of multiple beads.
+In choosing the size of ballotini for this part of the experiment, little attempt was made to model hoar frost
+as such. 0.3 mm (0-012 in) diameter ballotini were chosen because it had already been shown by their use
+in a transition band that this size was sufficient to effect an appreciable reduction in CLmaxwhen the ballotini
+covered the leading edge. Hence there would be a large enough variation to measure when the aerofoil was
+progressively covered over with this roughness. In fact, 0.3 mm (0.012 in) appears to be typical of a thick,
+undeveloped granular frost layer in medium-to-severe frost conditions) though much more work is required
+observing, classifying and measuring typical frost deposits. It would appear that further exposure to frosting
+conditions leads to an irregular spiky growth of some grains to a much greater depth, whilst less severe conditions could restrict the granular deposit to around 0.1 mm (0-004 in). If 0.3 mm (0-012 in) is regarded as a
+maximum depth of deposit for which the tests might hope to provide guidance, then since the wind speed of
+the tests (55 m/s or 180 ft/s) is not far off take-off speed the experimental work is relevant to a full-scale wing
+having the chord and section of the model. The determination of adverse effects on a large transport aircraft.
+swept wing with much larger chord Reynolds number and different section, probably with trailing-edge and
+leading-edge devices, clearly needs much more work.
+3. Basic Tests of N A C A 0012 Profile
+
+The aerofoil was tested at Reynolds numbers of 2-88 x 1 0 6 and 1.44 x 1 0 6 both with transition free and with
+transition fixed by narrow bands of 0.18 mm and 0.3 mm diameter ballotini.
+The approximate variation of transition with incidence on the clean aerofoil is shown in Fig. 3. Chordwise
+pressure distributions and normal-to-chord distributions round the nose are shown in Figs. 4 and 5. The
+china-clay technique indicated at the Reynolds number of 2.88 x 106 that laminar separation appeared
+between 9 and l0 degrees, though it could not be detected from the pressure distributions below 12 degrees.
+Additional pressure holes in the region of the bubble would have helped here, though it was clear from the use
+of the gas-filament technique that the bubble was very thin. As is indicated in Figs. 3 and 5, alternative flow
+r6gimes were possible. In one case, the bubble disappeared at incidences above 16 degrees (being replaced by
+straightforward transition) and the aerofoil incidence could be increased to 17-5 degrees (geometric) (dotted
+
+pressure distributions in Fig. 5) before the stall occurred, with CLmaxequal to 1.54 or greater. Alternatively,
+the stall occurred immediately above 16 degrees, with Cr.max 1"53 or less (Table 2). The pressure distributions
+show (and the oil-flow patterns of Fig. 2 confirm) that whether a laminar separation bubble is or is not present
+at CLmaxjust prior to complete flow breakdown, a bubble is present post-stall when the flow is steady and the
+leading-edge suction peak has collapsed. This suggests that the stall may perhaps be entirely a rear stall, with
+rapid forward movement of the turbulent separation front as the stalling incidence is exceeded, and complete
+flow breakdown is not precipitated, as was expected, by the failure of the laminar separation bubble to reattach. No attempt was made to resolve this point, but the distinction is an important one in relation to the
+hoar from tests described later. If the bubble does not burst as incidence is slowly increased, then the flow at,
+say, 0.1 chord, i.e. at a point ahead of turbulent separation but downstream of the bubble re-attachment
+position, would remain always in the downstream direction. But if the bubble bursts, the flow at 0-1 chord
+would reverse in direction until steady conditions are re-established and the smaller suction peak associated
+with separated flow allows the bubble to re-form with a subsequent well-forward position of turbulent separation. This sequence might be detectable with suitable hot-wire type of instrumentation.
+The lift curves for the clean wing at Reynolds numbers of 2.88 x 106 and 1.44 × 106 are shown in Fig. 6,
+together with measurements taken at other Reynolds numbers in order to define CLmax. Scale effect on CLmax
+is shown in Fig. 7. Although imperfect, the use of boundary-layer control at the ends has yielded an increment
+in maximum measured C L at all Reynolds numbers over the curve suggested by Poisson-Quinton and Sievers 9
+from an analysis of N.A.C.A. data. This increment is less than the changes due to scale effect over the range of
+Reynolds numbers of the test, so there cannot be much doubt about the shape of the curve in Fig. 7 even if the
+values of Ccmax shown also in Fig. 6 and in Table 2 are a little uncertain, both because of the vanishing bubble
+and the three-dimensionality at the stall. Nevertheless these values are thought to be nearer to two-dimensional
+results than values obtained earlier without boundary-layer control. Table 3 lists lift-curve slopes measured
+over as much of the range of incidence - 2 to + 9 degrees as was possible. The thinner boundary layers at
+the higher Reynolds number effect some small improvement but the application of boundary-layer control
+at the ends does not have any significant effect over this incidence range.
+Fig. 7 also shows the loss of maximum lift consequent upon fitting transition bands near the nose of the
+aerofoil. Both sizes of ballotini stimulated transition at the strip on the upper surface at 2.88 × 10 6 and 1.44 ×
+10 6 at all incidences. On the lower surface, where the pressure distributions were favourable at positive incidences, the flow was turbulent behind both sizes of ballotini at 2-88 x 106 at all incidences. But at 1.44 × 10 6,
+transition moved back from 0.1 chord to mid-chord as the incidence increased from 8 to 12 degrees with
+the larger 0.3 mm ballotini, and from 0.1 chord to the trailing edge as the incidence varied from 6 to 12 degrees
+with the smaller 0.18 mm ballotini. Although neither size of ballotini was sufficient to guarantee a turbulent
+boundary layer on the lower surface, they were large enough to reduce CLmaxby about 0.4 at 2.88 x 10 6 and
+were thus very similar in their action to the N.A.C.A. standard roughness. 7
+Drag variation with lift coefficient is shown in Fig. 8 for the two Reynolds numbers of 2.88 x 10 6 and 1-44 x
+106. Curves are given both for free transition and with transition bands fitted.
+Variation of pitching moment with lift coefficient on the clean wing, and the effect of Reynolds number
+on this relation, are shown in Fig. 9. An alternative set of results from Session III at a Reynolds number of
+2.88 x 10 6 which gave both a lower CL at a given incidence and also a lower CL . . . . Fig. 6, has yielded a more
+nose-up pitching moment in Fig. 9. It is the Session III pressure distributions that are shown in Figs. 4 and 5,
+and they are closely similar to those of the earlier session, the reduced Cr. being explained by a slightly greater
+pressure (ACp ~ 0.1) occurring over most of the upper surface, with a lower suction peak at the nose (ACpmi, -~
+3"3). The lower surface pressures are substantially the same. A comparison of the two types of pressure distribution does not reveal any basic reason for the change in pitching moment.
+
+4. Tests with Distributed Roughness progressively covering the Upper Surface
+These tests were carried out at the maximum Reynolds number of 2.88 × 106 and consisted of pressure
+!,lotting and wake traverse observations at angles of incidence from 0 degrees up to beyond the stall with the
+whole span of the wing progressively covered from the trailing edge forwards to some point, x*/c, with 0-3 mm
+liameter ballotini. The tests were initially carried out with a sparse di~ttribution of ballotini (Section 2); later,
+~dditional readings were taken with most or all of the upper surface coated with a much denser distribution.
+l'he variations of measured lift coefficient, profile drag coefficient and pitching moment coefficient with inciJence and position of the leading edge of the distributed roughness are shown in Figs. 10, 11 and 12. The
+~arpet plots of Figs. 10 and 12 allow the variations with chordwise extent of roughness of the lift and pitching
+-oment at various constant incidences to be seen: the corresponding drag variations are shown in Fig. 13.
+
+The lift curve for roughness extending to x*/c = 0.75 in Fig. 10 also demonstrates (for this condition) the
+hysteresis loop obtained at the stall.
+At zero incidence there is a small reduction in CL as the roughness is spread forward (Fig. 10), due to the
+thickening of the boundary layer at the rear of the upper surface and consequent small change in the contour of
+the displacement surface of the aerofoil which determines the pressure distribution. This small reduction in
+C~ is the only change that can be seen at higher incidences until close to the stall, for Table 4 shows that over
+the range 0 to 9 degrees, the lift curve slope is unaffected by the roughness except when the sparse distribution
+covers the whole surface, or the dense distribution extends to 0.1 chord or further forward. In these conditions
+the lift at high incidence is more significantly reduced.
+The same effect occurs with Czmax as can be seen in Fig. 14. Cmmaxfalls off slowly as the roughness extends
+forward of 0-60 chord, but rapidly as the roughness extends forward of 0-10 chord. With complete coverage,
+the loss in maximum lift is 25 per cent with the sparse distribution and 33 per cent with the dense one. It is
+interesting to note that these reduced values bracket the value obtained when narrow transition bands of the
+same size ballotini were fitted. In this case the coverage on the upper surface was limited to the region from the
+leading edge to 0.027 chord, which is thus seen to be the vital region, which when covered, results in loss of
+lift.
+Fig. 15 shows plots (with staggered vertical scales) of the normal-to-chord pressure distributions round
+the nose at CLmax for various extents of distributed roughness. Except when the roughness reaches the nose,
+a laminar separation bubble is present.
+Although pitching moment is very little affected by the extent of roughness, the section drag was seen to
+increase (Fig. 13) as the roughness extended forward of about 0.60 chord, and rapidly so when the roughness
+extended forward of the 0.10 chord position. However, until this coverage was obtained, the drag increment
+was less than 30 per cent of the drag of the clean wing. This comparison can be seen more readily from the
+analysis of Fig. 16, where the clean-wing drag has been plotted against CL together with the drag increments
+which must be added to this to obtain the total profile drag, for various extents of roughness. It will be seen
+that the drag increment is not greatly dependent on the value of CL except close to the stall. The drag is roughly
+doubled by the complete coverage of sparsely distributed ballotini, or by a coating of densely distributed
+roughness extending forwards to about 0.08 chord. Doubled drag also obtains with transition bands of the
+same size ballotini at values of C L between 1.0 and the stall at 1.1 (Fig. 8).
+5. Discussion and Conclusion
+The aerodynamic characteristics of NACA 0012 measured in a low-speed wind tunnel at Reynolds numbers
+up to 2.88 × 106 are presented, and it is hoped that they are free from substantial error or uncertainty despite
+two major difficulties that were encountered in the neighbourhood of the stall. The possibility that the stall
+might be prematurely initiated by the onset of flow separation in the corners between the wing and the tunnel
+walls had led to the provision of a form of boundary-layer control. Whilst the use of this device eliminated
+a very obvious departure from two-dimensional conditions, the use of excessive boundary-layer-control
+flow quantities making the stall less likely to start in the corners, rather than more so, was equally unsatisfactory
+in that it introduced a different mode of three-dimensionality into the test conditions, namely, a wave in the
+turbulent separation front. Despite endeavours to avoid this situation it was found that gross three-dimensionality (designated a stall cell) was present in post-stall conditions, and there is a little evidence which suggests
+that it develops just prior to the stall, and that it is not particularly associated with the application of boundarylayer control. If the three-dimensionality spreads to any great extent it may altogether prevent true CLmax
+from being measured, since in the presence of induced-flow conditions, the line of pressure holes may not lie
+along a streamline or in a region of two-dimensional flow, and the local incidence may j u m p from a pre-stall
+incidence to a post-stall incidence as geometric incidence is gradually raised. Such behaviour does not nullify
+the use of two-dimensional data in lifting-line type calculations, but merely rendered the determination of
+data impossible in this particular experiment. Further attempts to obtain two-dimensional flow conditions
+through the stall, and to assess quantitatively the extent of three-dimensional flow otherwise encountered,
+are described in Ref. 5.
+The second difficulty encountered during the measurements was that a laminar separation bubble formed on
+the clean wing at values of CL above about 0.9, and as the incidence was increased towards the stall at the
+highest Reynolds number of the tests, on some occasions the bubble disappeared prior to the stall, but on others,
+the bubble remained present even at the last measurement before the stall. In all cases the bubble was again
+found in the first measurement possible once steady flow was re-established post-stall. When the bubble
+disappeared, a slightly higher maximum value of C L and of the accompanying nose-suction peak was recorded
+
+(Table 2). When the bubble remained, it was not established whether it maintained its integrity through the
+stall (passive), or precipitated the stall by bursting and then re-formed (active). This needs attention in future
+work as it is relevant to the likely effect of change of Reynolds number on the results obtained with some
+distributed roughness present. This point is discussed later.
+Scale effect on lift, drag and pitching-moment curves is illustrated in Figs. 6, 8 and 9. The CLmaxat R = 2.88
+x 10 in Fig. 6, a value of 1-57, lies in the band 1.54-1.57 obtained without a bubble, compared with the band
+of values of 1.42-1.53 with a bubble. Whether or not a bubble was present, the values of CLmaxover the whole
+Reynolds number range (Fig. 7) were greater than values reported elsewhere, apparently due to the boundarylayer control in the corners. It is thought that this may inhibit an induced change of camber, present in all
+earlier tests, and ensure that pressure plotting is undertaken on a line of flow symmetry.
+The information on CLm~xin the presence of varying extents of roughness (Fig. 14), and on the drag increment
+due to the roughness (Fig. 16), is of relevance to the problem of deciding whether it is necessary to de-frost the
+entire upper surface of the wing of an aircraft. Although no attempt was made to model hoar frost, it appears
+that a roughness height of 0.3 mm (0-012 in) is typical of an undeveloped frost layer in medium-to-severe
+frost conditions? It follows that if a small aircraft (or helicopter) were equipped with an unflapped wing
+(or rotor) having the present section in profile and size, the present results obtained at a Mach number of 0.16
+would be directly relevant. This Mach number is almost that for aircraft take-off, but is not normally one of
+great interest on a rotor since the dynamic pressures in this condition are so very much less than those nearer
+the rotor tip. The model test result, which is Reynolds number sensitive, would then apply full-scale, i.e., that
+provided the first ten per cent of the chord of the aerofoil were kept clean, there would be only a 10 per cent
+loss of lift, and the section profile drag contribution would be less than double that of the clean wing. The precise
+increment would depend on CL and on density, size and extent of the roughness.
+The question of the need to defrost the entire upper surface of the swept wing of a civil transport aircraft
+involves not only the aerodynamics of flow over rough surfaces at Reynolds numbers some ten times those of
+the present tests, but also consideration of the stall of a three-dimensional swept wing of appropriate aerofoil
+section, of the effects of trailing-edge high lift devices, and probably of leading-edge ones too. Thus the encouraging results from the present aerofoil tests point to the need for similar work on a typical transport
+configuration, which would have to be carried out at Reynolds numbers right up to those of full-scale flight
+to enable the question to be fully determined. Whether such an exercise could be cost effective is another matter.
+Here, however, it is worthwhile considering to what extent the present results might be expected to obtain
+at higher Reynolds numbers. This will depend on whether the present laminar bubble plays a passive or active
+role in the stall, a point not completely resolved. Change in Reynolds number alone would have several effects.
+On the one hand, since it is virtually achieved by a change in chord only, both roughness height and free-stream
+speed remaining much the same, the roughness Reynolds number is little altered. Thus very close to the nose
+at comparable local Reynolds numbers, (Rx), enhanced boundary layer growth would occur leading to loss of
+CLm~x. But over the rear of the aerofoil, on the other hand, the boundary layer is so thick that there is little or
+no increment in drag due to the addition of roughness there, Fig. 16. With an increase in aerofoil chord and
+boundary layer thickness, this would remain true for an even greater proportion of the surface than before.
+Therefore it seems likely that changes in lift coefficient would remain comparable with those of the present tests
+and that increments in drag coefficient could well be up to 50 per cent less. But in addition, one would not
+expect to encounter a laminar separation bubble. Now when the present aerofoil did not exhibit the laminar
+separation bubble at the stall, as was the case in Section I of the tests (Table 2), the CL.,"~ was roughly 0.1 higher
+than that achieved in the presence of the bubble. Further the CLm,~with complete roughness coverage had no
+bubble present. Hence it can be inferred that the general shape of the fall in CLm,x shown in Fig. 14 would
+still be obtained at much higher Reynolds number. This implies that increasing the skin friction and boundarylayer thickness by the addition of surface roughness does not hasten the development of the boundary layer
+to separation, except when roughness extends right to the leading edge and is therefore present in the region
+of very strong adverse pressure gradient immediately downstream of the suction peak. The same inference
+could be drawn if it could be confirmed, as seems likely to be the case, that the present separation bubble
+played a passive part in the stall, which was still determined by the rapid forward movement of turbulent
+separation when a certain CL was reached. The slight variation of CLmax with increasing coverage of roughness,
+provided this did not extend over the first 10 per cent, would still be attained at much higher Reynolds numbers
+without the bubble: the final drop in CL as the roughness extended over the critical 10 per cent might be different
+in magnitude as at full scale the process would not then be accompanied by the disappearance of the bubble.
+The equal uncertainty lies in the possibility that the stall occurs with increasing incidence because of the
+active 'bursting' of the laminar bubble, or sudden failure to re-attach. This will depend critically upon the
+development with incidence of the pressure distribution round the nose, and this is much less directly controlled
+
+by a mechanism which merely thickens up the boundary layer to the rear of the aerofoil and in that way
+influences the pressure distribution. With this mechanism, the shape of Fig. 14 would be strictly relevant only
+to the present and lower values of Reynolds number, and would not provide guidance to the situation at much
+higher Reynolds numbers. However, as indicated above, the high CLmaxvalues obtained on the clean wing in
+Session I without a bubble compared with the low values of CLmax with roughness fully covering the wing,
+suggests that the overall changes in CLmaxand in CD due to coverage with roughness at higher Reynolds numbers
+would remain much the same. The shape of the curves may well be similar but would have to be ascertained
+by experiment.
+
+Acknowledgement
+Acknowledgement is due to Mr. D. P. Biggs for his invaluable assistance with the experimental work described in this report.
+
+I0
+
+LIST OF SYMBOLS
+¢
+
+CL, CD, C m
+
+Chord
+Lift coefficient, profile drag coefficient and quarter-chord pitching-moment coefficient
+
+Cp
+
+Pressure coefficient
+
+CQ
+
+Suction quantity coefficient = Q/UoCS'
+
+M
+
+Mach number
+
+Q
+
+Suction flow rate
+
+R¢
+
+Chord Reynolds number
+
+R
+
+Radius of curvature
+
+Ro
+
+Leading-edge radius
+
+S
+
+Span
+
+St
+
+Span of rows of perforations
+
+Uo
+
+Free-stream speed
+Incidence
+
+P
+
+Surface curvature = c/Ro
+
+Po
+
+Leading-edge curvature
+
+X*
+
+Chordwise position of start of roughness
+
+11
+
+REFERENCES
+
+No.
+
+Title, etc.
+
+Author(s)
+
+l
+
+N. Gregory and P. G. Wilby
+
+N P L 9615 and NACA 0012--A comparison of aerodynamic data.
+N.P.L. Special Report A.R.C. 30 657, (1968).
+
+2
+
+D . E . Gault
+
+A correlation of low speed aerofoil section stalling characteristics
+with Reynolds number and aerofoil geometry.
+N.A.C.A. Technical Note 3963. (1957).
+
+3
+
+P . A . S . Langston
+
+4
+
+G . F . Moss and P. M. Murdin
+
+5
+
+N. Gregory, V. G. Quincey,
+C. L. O'Reilly and D. J. Hall
+
+Progress report on observations of three-dimensional flowpatterns obtained during stall development on aerofoils, and
+on the problem of measuring two-dimensional characteristics.
+A.R.C.C.P. 1146 (1970).
+
+6
+
+Eastman N. Jacobs, K. E. Ward
+and R. M. Pinkerton
+
+The characteristics of 78 related sections from tests in the variabledensity wind tunnel.
+N.A.C.A. Report 460. (1932).
+
+7
+
+I.H. Abbott and A. E. von Doenhoff
+
+. . . . . . . .
+
+Hoar frost on aircraft surfaces.
+B.E.A. Engineering Tech. Note No. P/570 and addendum.
+A.R.C. 30 725, (1968) and (1969).
+
+. . . . . .
+
+..
+
+Two-dimensional low-speed tunnel tests on the NACA 0012
+section including measurements made during pitching oscillations at the stall.
+A.R.C.C.P. 1145 (1968).
+
+Theory of wing sections, including a summary of aerofoil data.
+McGraw Hill. (1949).
+
+8
+
+ed. G. V. Lachmann
+
+Boundary layer and flow control.
+Pergamon Press. (1961).
+
+9
+
+Ph. Poisson-Quinton and
+A. de Sievers
+
+l~tude fierodynamic d'un 616ment de pale d'h61icopt6re. September,
+1967.
+A.G.A.R.D.C.P. 22 (Supplement to pre-print). Also available as
+O.N.E.R.A.T.P. No. 495 and A.R.A. Lib. Trans. No. 17 (A.R.C.
+30 798).
+
+12
+
+APPENDIX
+The influence of the Test Conditions on C Lm a x and on the Three-Dimensional Flow Development at the Stall
+A full account of the detailed examination of stalling conditions on two-dimensional models tested in the
+13 ft × 9 ft wind tunnel is given in Ref. 5. The work was largely carried out on N P L 9619 which was the aerofoil
+under test at the time the significance of the three-dimensional flow development was fully appreciated. The
+oil-flow technique was used to indicate surface-flow directions and many observations were made. Sufficient
+flow patterns were photographed subsequently on NACA 0012 to establish that the sequence of events was
+similar.
+Without control of the tunnel-wall boundary layers, separation occurred first in the corners at the ends of
+the aerofoil as incidence was raised. When the geometric incidence had reached 13 degrees on NACA 0012
+and the boundary layer over the major part of the span had begun to separate just ahead of the trailing edge,
+the flow in the corners between the aerofoil upper surface and the tunnel floor and ceiling had become badly
+separated. Fig. 2a, taken in conditions equivalent to 15 degrees incidence, showed a reverse-flow eddy affecting
+a remarkable spanwise extent of surface, preventing two-dimensional flow conditions from being achieved.
+As incidence was increased, turbulent separation moved slowly forward but tended to become less uniform
+spanwise. Eventually an incidence was reached where turbulent separation jumped forward to around 0-20.3 c, with collapse of the leading-edge suction peak (See Section 4). The separation front became mushroomshaped (Fig. 2b), forming what has been dubbed a 'stall cell', with two regions of vorticity trailing into the wake.
+These vortices separated a central portion of aerofoil, where the lift was low, from outer portions with higher
+lift and a more rearward position of flow separation. The trailing vorticity induced mid-span upwash (between
+the two trailing vortices) which tended to'keep the central portion stalled, and a downwash outside the trailing
+vortices which tended to keep the outboard portions of span less separated. This was in the opposite sense to
+the normal loss of lift expected as a result of corner flow separation, and indeed, even without boundary-layer
+control, the induced flow could be strong enough to keep the corner flow unstalled. In Fig. 2b the flow was
+unstalled in one corner but remained stalled in the other. This pattern, from its obvious symmetry could be
+described as one and a half 'stall cells'. N o great changes occurred with further increase of incidence, but quite
+arbitrarily, either one, one and a half, one and two halves or two stall cells were from time to time observed.
+Sufficient boundary-layer control, i.e. the 'standard' amounts of Section 2, successfully prevented the corner
+separation from occurring (compare Fig. 2c with Fig. 2a) but did not prevent the three-dimensionality described
+above arising as the aerofoil stalled (Fig. 2d). It did appear, however, to ensure that one or two complete stall
+cells occurred. This tended to keep the pattern symmetrical with respect to the central band of pressure plotting
+holes (though not particularly so in the case of Fig. 2d), and it was presumably this feature that accounted
+for boundary-layer control raising CLmax by 0"1 or more: in the first tunnel testing session, CLmax increased
+from 1.44 to 1.54, and in Session II from 1.39 to 1.53 (see entries H, B, I, D, in Table 2). These changes must be
+considered in the light of a number of attempts listed in Table 2 to record the highest possible C L at a Reynolds
+number of 2.88 × 106, with boundary-layer control applied. The values in Table 2 were measured on the model
+with full uninterrupted span/chord ratio of 3.6 when the stall was associated with the presence of a short
+laminar separation bubble. In some cases, however, the bubble disappeared, presumably due to transition
+preceding laminar separation, and the incidence could then be raised further and CLmax increased to between
+1.54 and 1-57. Thus the changes due to the application or variation of boundary-layer control are seen to be
+small compared with the scatter in the measurements of CLmax itself at this Reynolds number.
+After Session I, when oil-flow patterns were first being obtained on N P L 9619 as described above it was
+appreciated that as the stall process started with turbulent separation moving upstream from the trailing edge
+with increase of incidence, boundary-layer control as then used (the standard arrangement of Section 2) was
+forcing a wave in the separation front. This occurred since suction into the perforations tended to inhibit
+separation at each end of the model over that portion of the span of the perforations furthest from the tunnelwall boundary layers. Also, at incidences where the stall was complete, there was occasionally a corner separation at one end of the span. To improve the flow conditions, therefore, distributed suction was subsequently
+restricted to the end 0.15 m (6 in) of span and the inflow rate was increased by 40 per cent.
+In Session III, CLmax was lower than in the earlier sessions (1.42 compared with 1.53, in the presence of the
+laminar bubble). A small increase to about 1.50 was obtained following either an increase in the spanwise
+extent of suction or its intensity, but the bubble could not be eliminated. As an increase in inflow velocity was
+preferred to an increase in span over which distributed suction was applied, the standard conditions in the
+third session differed again from those of the earlier sessions.
+Despite these variations in boundary-layer control from session to session, the variations in CLmax did not
+correlate with them ; other factors must have been involved, but have not been isolated. The variations shauld,
+
+13
+
+however, be kept in perspective. The range of readings from A to G in T a b l e 2 only gives a variation of 0-15 in
+CL. . . . or 10 per cent with the clear distinction that CLm,x values less than 1.535 are associated with the presence
+of a laminar separation bubble and Cv,,~n equal to - 1 0 . 7 or greater, whilst CLm,x values greater than 1.535
+are for flows without a bubble and with C r m~n equal to -- 11.4 or less. The reason for transition preceding
+laminar separation along the whole span in Session I is unknown. Any local reversal of this order would have
+permitted the stalling process there to start early, so the possibility that transition was precipitated by the
+micro-roughness associated with the coat of china-clay which was on the model in Session I, but not later,
+may perhaps be correct. However, the laminar bubble was found to have re-appeared post stall in association
+with the much lower suction peak then present. The 25 mm (I in) wide strips of ballotini which were used as
+transition devices are shown (Sectic, n 4) to reduce CLmax greatly, but it was found during tests on another
+aerofoil that a mere three rows of ballotini applied on the leading edge at a pitch/diameter ratio of 2.5 successfully suppressed a laminar bubble without reducing CLmax.This control should perhaps be used in future tests
+to simulate high Reynolds number conditions more closely.
+The other variations in CLmaxin Table 2 due to test conditions are the reduction associated with absence of
+boundary-layer control (already referred to), and other changes when the span was broken into by end fins.
+This latter condition produced the smallest recorded CLm~ (1"26) when the boundary layers on the end fins
+were thickened up with gauzes to simulate the relative ratio of boundary-layer thickness/aerofoil-chord
+encountered in the 36 in. × 14 in. transonic tunnel. It may be significant that this value of CLm~xis 0"3 below
+the best recorded value at R = 2.88 × 106, which is the same deficit that the value obtained in the transonic
+wind-tunnel tests at M = 0.3 (CLm,x = 1"144) bears to the 13 ft × 9 ft value of 1.4 at the same Reynolds number,
+1-7 × 106. Whilst massive corner separations would be expected to generate a large difference between geometric and local flow incidence at mid-span, the reason for a change in CLm~ remains obscure, since such separations do not in any case influence the post-stall three-dimensional pattern. It could be that the massive trailing
+vorticity induces a change of camber.
+It is also the case, however, that the largest CLmax, 1"65 was recorded with end fins with thin boundary layers
+(Case L). On this occasion there was no bubble present and it can only be surmised that the corner separations
+which were present resulted in some streamwise convergence of the flow, and the resulting acceleration delayed
+the turbulent boundary-layer separation. It must not be forgotten that the end fins were not large enough to
+isolate the central portion of aerofoil from the influence of the flow over the end portions, and there may well
+have been gross differences in end portion flow pattern between these extreme cases. Illustrations in Ref. 5
+suggest that the surface patterns post-stall and with limited span may be very far from two-dimensional.
+
+14
+
+TABLE 1
+NACA 0012 Ordinates
+X
+
+P
+
+¢
+
+0
+0.0005
+0.0010
+0.0025
+0.0050
+0.0075
+0-0100
+0.0125
+0.015
+0.02
+0.03
+0.04
+0.05
+0.06
+0-08
+0.10
+0.12
+0.14
+0.16
+0.18
+0.20
+0.225
+0.25
+0-275
+0.3
+0.325
+0.35
+0.375
+0.4
+0.425
+0.45
+0.475
+0.5
+0.55
+0.6
+0.65
+0.7
+0.75
+0.8
+0.85
+0.9
+0.95
+
+1.00
+
+0
+0.0040
+0.0056
+0.0087
+0.0122
+0.0149
+0.0170
+0.0189
+0.0206
+0.0236
+0-0284
+0.0323
+0.0355
+0.0383
+0.0430
+0.0469
+0.0499
+0.0524
+0-0544
+0.0560
+0.0574
+0.0586
+0.0594
+O.0599
+0.0600
+0-0599
+0-0595
+0.0588
+0.0580
+0.0569
+0.0558
+0.0544
+0.0529
+0.0495
+0.0456
+0.0413
+0.0366
+0.0315
+0.0262
+0.0205
+0.0145
+0.0080
+0.0013
+
+90
+75.6
+70
+59.6
+49.8
+43.5
+39
+35.6
+32-8
+28.6
+23.1
+19.5
+16.9
+14.8
+11.8
+9.6
+7.9
+6.4
+5.2
+4.2
+3.3
+2.3
+1.4
+0.7
+0
+-0.6
+- 1.17
+- 1.68
+-2.13
+-2.55
+-2.93
+-3.29
+- 3.61
+-4.19
+-4.70
+-5.14
+- 5.56
+-5.94
+- 6.32
+-6.70
+- 7.10
+-7.53
+-8.02
+
+63.291
+
+21.062
+
+10.893
+6.976
+4.985
+3-815
+
+1-663
+
+0-741
+0.644
+0.568
+0.505
+0.452
+0.407
+0.368
+0.305
+
+0.218
+0-165
+0-138
+0.131
+0.142
+0-169
+
+0 = Surface slope, degrees
+p = Surface curvature = c/R
+Leading edge radius" Ro/c = 1/po = 0.0158
+
+15
+
+TABLE 2
+Measurements
+
+of
+
+CLmax
+
+Boundary Layer Control
+Case
+
+Session
+
+Wing span
+between walls
+
+s/c
+
+A
+B
+C
+D
+E
+F
+G
+
+II
+II
+III
+III
+Ili
+
+H
+
+I
+
+I
+
+II
+
+J
+
+I
+
+K
+
+I
+
+L
+
+II
+
+I
+I
+
+3.6
+
+3.6
+
+1.4
+
+Span of
+Perforations
+
+Q
+
+s'/c
+
+CQ = Uocs'
+
+0.4
+0-4
+0-2
+0.2
+0-2
+0.4
+0-2
+
+0-0013
+0-0013
+0.0018
+0-0018
+0.0018
+0-0013
+0.0026
+
+No B.L.C.
+
+No B.L.C.
+
+CLmax
+
+Cpmin
+
+1-55
+1.57
+
+-11.5
+-11'4
+-11.5
+
+1.53
+
+-
+
+Laminar
+separation
+bubble
+present
+
+A~ increment
+to next (stalled)
+observation
+
+Comment
+
+1-42
+
+-
+
+9-4
+
+1-50
+
+-
+
+10"7
+
+1.49
+
+-
+
+10-6
+
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+
+1.44
+
+-
+
+9-7
+
+Yes
+
+1"0 °
+
+C o m p a r e with 'B'
+
+1.39
+
+-
+
+8-8
+
+Yes
+
+1.0°
+
+C o m p a r e with ' D '
+
+1.43
+
+-
+
+8-9
+
+Yes
+
+1.26
+
+-
+
+7-3
+
+Yes
+
+0.5 °
+
+Boundary layer on end
+fins thickened with
+gauze
+
+1-65
+
+-
+
+12.0
+
+No
+
+1.0 °
+
+1.54
+
+10"6
+
+0.5 °
+0.5 °
+1.0°
+0.5 °
+0.5 °
+0.3 °
+
+TABLE 3
+Lift-Curve Slopes (per degree) Measured on Clean Wing during the Tests
+
+R c = 1.44 x
+Tunnel
+testing
+session
+
+10 6
+
+No
+
+With
+
+No
+
+With
+
+B.L.C.
+
+B.L.C.
+
+B.L.C.
+
+B.L.C.
+
+0.102
+
+0.103
+0.105
+
+0.108
+
+0.107
+0.109
+0.106
+
+I
+
+II
+III
+
+Rc = 2.88 x
+
+10 6
+
+TABLE 4
+Lift-Curve Slopes (per degree) according to extent of Distributed Roughness. Ro -- 2.88 × 10 6. Session llI
+
+OC L
+
+~°
+
+x*/c
+Sparse
+distribution
+
+1.00
+0-20
+0.10
+0-05
+0
+
+Dense
+distribution
+
+0-106
+0.105
+0.107
+0-106
+0.100
+
+0.108
+0.100
+0-095
+
+17
+
+(o)
+
+Sparse
+I_Diam.
+I-- A rea
+
+distribution
+l"|Zgin. - Z8.65mm_ I
+1 in. z
+-- 64 5 "1 mm~1
+
+*-It
+
+(b)
+
+~ ". ~ ' . ~ -
+
+Dense
+
+distribution
+
+FIG. 1. (a) Sparse, and (b) Dense distributions of 0-3 mm (0-012 in.) ballotini.
+
+18
+
+A
+
+- -
+
+D
+
+•
+
+direction
+
+!i i,
+
+',
+IF//'
+
+Mainstream
+
+°
+
+-
+
+,
+
+~.
+
+D o
+
+°
+
+',,~ JJ ~",,~,
+
+~ o
+
+p J/.~
+
+~. i ,I._
+#
+
+,
+
+j..,t...,~
+
+~
+
+''~'-'
+
+b
+
+o
+
+....D
+
+~ r ¢.J
+
+--
+
+b
+
+i~.m,
+
+•
+e
+•
+
+.
+
+°
+
+1o|
+
+•
+
+I,
+
+•
+
+.A
+
+•
+
+•
+
+•
+
+A
+
+•
+
+-~
+
+(bt
+
+It)
+
+Surface oil-flow photographs R, = 2.88 x 106
+Without end boundary-layer control :-(a) NPL 9619 at 16° (equivalent to NACA 0012 at 15°)
+(b) NPL 9619 at 18° (equivalent to NACA 0012 at 17~)
+With end boundary-layer control (s'/c -~ 0-2; CQ = 0.0018) :-(c) NACA 0012 at 15°
+(d) NACA 0012 at 17°
+
+FIG. 2.
+
+a,b, candd.
+
+19
+
+{d)
+
+~
+
+p
+
+9 / ~ '
+II,
+
+8., 4
+
+•
+
+•
+
+p
+
+T.E.
+0-8
+
+\
+Turbulent
+
+0"6
+
+Reverse
+flow
+,~:
+
+separat|on~
+
+\
+c~ x
+
+0.4
+
+~
+
+Turbulent. boundary
+layer
+
+0-2
+
+X/C.
+
+Rc= 2.88 x 106 /
+
+\
+
+I
+I
+
+~Rang¢
+Ix
+
+I~
+
+Range o~ s~,aH~ng I
+incidence
+
+I
+
+_
+
+0'1
+
+~:~\'~ Rc =!.44 ~10
+
+0"06
+
+\
+
+Laminar boundary
+
+0"02
+
+I
+
+I
+
+0\ re at~.achment J
+
+I
+
+~'~,~
+
+/
+
+J I
+
+O.OI
+sepora~ion
+-10
+
+-5
+
+Geome~.ric
+
+0
+
+5
+incidence,~°
+
+10
+
+15
+
+FIG. 3. Flow r6gime boundaries at Reynolds numbers of 2-88 x 10 6 and 1.44 x 10 6.
+(Lower surface results at + ~,e incidence plotted as if upper surface results at - t , e incidence.)
+
+20
+
+Z0
+
+t6 o ,
+15 o
+
+-If
+t4 o
+
+--
+
+NACA
+P'c
+
+=
+
+0012
+
+Z'SBxI06
+
+S e s s i o n 'rrr )
+
+12 o
+
+Upper surface distribution
+and experimental ) o i n t s
+Lower
+
+0 J6"50
+
+surfoce distribution
+I0 °
+
+6o
+
+-2
+
+<
+
+40
+
+~-
+
+?o
+
+-I
+
+~
+
+i
+
+0
+
+0'I
+
+~
+
+i J" - -~" 60
+
+0"2
+
+0"3
+
+0"4
+
+~ ......
+
+0'5
+
+0"6
+
+0'7
+
+', - - -
+
+O" 8
+
+0'9
+
+;-~
+
+I'0
+
+I'I
+
+1'2
+
+7:--
+
+1'3
+
+(x/c * o ' o s s ° )
+FIG. 4.
+
+C h o r d w i s e p r e s s u r e d i s t r i b u t i o n s on clean aerofoil.
+
+1"4
+
+l'S
+
+1,6
+
+1"7
+
+I'8
+
+I0
+
+13
+14
+
+IE
+
+17
+
+0
+
+)6
+
+yt~
+
+O.'ZO -0.'I0
+
+--:--0:'0~
+
+,_O.OZo.oO.OOSxlc~
+~ ,
+
+ol
+
+, °'°zo
+,
+°°°Lol
+
+,
+
+'o.'os o.',o o:zo
+
+FIG. 5. N o r m a l - t o - c h o r d pressure distribution r o u n d nose of clean aerofoil. R c = 2.88 x 10 6. Session Ill.
+Dotted curves show observations in extended incidence range prior to stalling when the laminar bubble
+disappeared. (Session I).
+
+22
+
+1"75
+
+1.5
+
+I
+
+R c x 10-6
+
+Symbol
+
+2.88
+2 -B8
+2"4
+
+x
+
+No bubble on this poin~ only
+
+I
+
+--m-.-(session rnt )
+o
+
+0'88
+
+V
+&
+÷
+
+0.48
+
+0
+
+I • 76
+
+1"44
+
+CL
+
+1
+
+1.0
+
+//
+
+0"5
+
+0
+0
+
+4
+
+Geome~ic 8 (ncidence, ot
+F l 6 . 6.
+
+Z
+
+Scale effect o n lift curves.
+
+23
+
+16
+
+1.7S
+Range of values)bubble present.
+Rangeo f values, I
+~ x . ~ : : : : : : i~,~----~ n o bubbl,
+,
+1.5
+~
+
+J
+
+~
+" ~
+
+CLma x
+
+Ran,e
+without BLC
+o
+,t-
+
+o
+
+ONEIDA
+analysis (9) of
+NACA TN 3361
+TN 1945
+
+1,0
+
+4~
+
+0-5
+
+O-S
+
+1,0
+I
+0 -05
+3O 4O
+6O
+I
+
+I,
+
+I0
+
+,
+
+I
+
+i
+
+I
+
+20
+
+8O
+I
+
+N PL results
+x Clean wing
+o With 0.18 mm dia. ballofini transitfon
+bands
+Wilh
+0-3
+mm
+dia.
+ballotini ~.ransi~.ion
+-I"
+3.10 bands
+410 R ¢ x 10-6
+I
+2"I0
+I
+I
+M
+O,IS
+0.20
+0"10
+140
+160
+180
+?00
+220
+240 ftlsec
+120
+100
+I
+I i
+I
+II
+I
+i
+1
+,I
+I
+I
+m/s
+50
+60
+70
+4O
+30
+FIG. 7.
+
+Scale effect on CLm.x.
+
+0"05
+
+I
+NACA
+
+0012
+
+Wing
+
+condition
+
+Clean
+0 " 1 8 mm
+
+ballotini
+
+mm
+
+ballotini
+
+0.:5
+
+P,ey nold s
+
+number R,c
+
+2.88 x 10-6
+
+I. 4 4 x 106
+
+x
+
+O
+
++
+
+V
+
+I
+
+I
+
+0"04
+
+X
+
+003
+
+Jl
+
+0"02
+
+o~-- 0 °
+
+.I
+0
+
+FIG. 8.
+
+0.5
+
+1.0
+
+CL
+
+[-5
+
+Drag variation with lift for clean wing and wing with transition bands at R = 2.88 x 106 and
+1.44 x 106.
+
+25
+
+0"04
+Rc x 10-6
+Cm
+
+Symbo~
+
+2-88
+
+X
+
+2-88
+
+- m - - ( Session TTI)
+
+S!
+
+2"4
+o
+v
+
+I "76
+
+0-02
+
+I -44
+0 -SB
+
+0-48
+0
+
+- 0-02
+
+- 0 "04
+
+-0
+
+-06
+
+--0 " 0 8
+
+0
+
+0-S
+FIG. 9.
+
+CL.
+
+!-0
+
+Scale effect on pitching moment variation.
+
+26
+
+-5
+
+1-75
+
+I'50
+
+.x_
+x,<~,
+
+i
+
+NACA
+
+0012
+
+Rc = 2 . B 8 x 106
+0-3ram
+
+1"25--
+
+~x=15 °
+
+x x
+
+dia. ballotini
+
+Sparse
+
+coating
+
+Dense
+
+coating
+
+/
+
+CL
+
+/
+x - -
+
+t .00
+
+x,x
+
+i-+
+.,so,
+
+0,75
+
+bo
+,...I
+x~
+c
+
+0-75
+
+T. E.L/,//x"
+
+o~=6~__/?/
+
+/ / ' <5
+/ °-">
+
+0-50 /
+
+L . E . - -xc ~
+
+0-30
+
+",,,,
+\
+
+0,50
+
+o.asl~--~
+
+o!/
+0
+
+~.= 0 °
+5
+
+I0
+
+15
+
+.~0
+Z5
+( oc + 2o(I--x~) °
+
+50
+
+FIG. 10. Variation of CL with incidence and position of front edge of distributed roughness, x*/c.
+
+35
+
+0'0650
+I
+
+R c = 2 - 8 8 x 106
+
+0-3mm (0-012 in.) diameter b a llo tin i
+d i s t r i b u t e d from T.E.to x ~ / c
+0.050
+
+x~/c
+1.00
+0.75
+0.50
+0"30
+
+0-04 0 -
+
+Sparse
+coat[ncj
+
+a
+I
+I
+
+Den S •
+
+I
+I
+I
+
+coatincj
+
+(Bare wincj )
+v
+O
+z~
+
+I
+I
+
+I
+!
+
+o
+
+/
+
+]
+
+o
+
+.
+
+a
+
+o
+
+®
+
+I
+
+0
+
+o
+
+~
+
+I
+
+III
+
+I +
+
+I
+
+0.20
+0"I0
+
+00
+
+4
+
+I
+
+/
+
+r~
+
+I,)
+
+!il
+
+II
+
+I I
+
+; /
+/
+
+:,~'/
+
+,r,'/I
+-"
+
+i
+
+:
+
+o
+
+0-030
+
+i
+
+~,
+
+,' /
+
+CD
+
+n
+
+!I
+
+,
+
+.//,,/ll~i
+
+/ " //~11/,
+
+/ ~5'~
+
+,%°7
+
+.!, ,7/~///
+
+,',oOy o." , ~ / / 1
+O-OZO
+
+~f/ /i I/ I ~,~/
+
+I /,~11 o~
+~" I / t //,'M/..,~
+
+:,- >,-..-,+/.~,jooo
+¢
+
+"//
+
+0"010~
+
+0
+
+5
+Geometric
+
+FIG. 11.
+
+10
+
+5
+
+incidence,at°
+
+Variation of profile drag coefficient with incidence for various chordwise extents of sparsely and
+densely distributed roughness.
+
+28
+
+I 0
+
+j J/x"x
+
+~o
+(scale for x~c =
+
+\
+tar ~0 -
+
+0
+
+0 for x~c
+
+x
+
+0
+
+~
+
+"
+•0
+
+0 for Xlc = 0
+
+025
+
+20
+
+I
+
+0 f o r X~C=(
+O f o r x ~/e = 0"00!
+
+\
+5
+
+0
+
+o: o
+
+(scat~ for x~c = (11
+
+I
+IO
+
+I'
+
+!
+
+I
+
+-0
+I5
+
+Cm
+
+NACA 0012
+:
+
+Rc
+
+- - 0 025
+
+2.88xl06
+
+03ram
+
+dia. bollo%inl
+
+Sparse
+
+coating - -
+
+"F
+
+i
+LI
+I;
+
+Dense COClt ing . . . . .
+
+sca1~
+
+for
+
+~=o)
+
+7,e
+
+Y
+
+Variation
+
+oi
+
+pitching
+edge
+
+of
+
+moment with
+
+incidence 1 and
+
+distribuLcd
+
+rough~¢ss~
+
+position
+
+of
+
+--0 050
+
+l e a d in@
+
+X~c.
+,-0 075
+
+FIG.
+
+12. Variation of pitching moment with incidence, and position of leading edge of distributed roughness,
+
+X*/¢.
+
+29
+
+0"060
+
+I
+
+Rc=2.88 x 106
+Sparse coating
+0"050
+
+Dense coating
+I
+
+o
+
+I
+
+.r
+
+0-040
+CD
+Values
+
+_..~J
+
+0.030
+
+J
+/ f
+
+/
+/
+
+0"020
+
+transition
+with
+bands
+9o 0-0.027c on
+upper surface
+0 ~ 6 c - - 0-10 c
+
+s
+
+^0
+
+Oj'+ ~¢_ on lower
+
+J
+
+surface
+
+V
+
+0.010
+
+~-0 °
+
+,
+
+~- -
+
+00
+
+°"+ /
+
+~7
+
+0
+
+T.E.
+
+0 "8
+0 "6
+0"4
+0 -2
+Positlon of front edge of roughness, x~/c
+
+L.E.
+
+FIG. 13. Variation of profile drag coefficient with position of front edge of distributed roughness at incidences
+of 0, 9 and 15 degrees.
+
+30
+
+1"6
+
+1"5
+
+1"4
+CL max
+1"3
+Dense coating
+
+I Y
+
+1"2 -
+
+I
+I
+
+I'1
+Value with 0.3mm ballotini
+transition bands
+I'0
+
+L.E.---,1,. 0. 027c on upper surface
+0 " 0 6 c - b 0 " 1 0 c o n lower surface
+
+D
+
+NACA 0012
+Rc= 2-88x 106
+0.3ram dia. b a l l o t i n i
+T.E.
+
+0 "8
+
+0.6
+
+X/c~ p o s i t i o n
+
+0.4
+of
+
+front
+
+0.Z
+
+edge of roughness
+
+o
+
+FIG. 14.
+
+Variation of CLmaxwith position of front edge of distributed roughness.
+
+31
+
+L.E.
+
+-16
+
+i
+
+I
+
+I
+I
+
+-15
+
+X/c~ = 0 50 - ~ . / / ~ l
+-14
+
+--
+
+x indicates points
+
+for x / t = l O0
+
+/
+
+~x'°,"~dt°s°m~sc°"°s'°r~.
+-13 --
+
+/c = o 50
+
+~
+
+~
+
+t\
+\1
+
+I
+
+o
+
+-II _
+
+-I0
+
+'
+~ ~
+
+-12
+
+1
+
+I
+
+-
+
+,o
+
+,50
+
+,~,
+
+~-4:-~-I
+
+o,so
+o~0
+o,o
+
+,,~
+,,~6
+,~,
+
+,s6
+,~
+,~,
+
+ii
+/.to.
+I I ;/ o ~ IX
+F-/
+I /"'4"°..
+
+"
+
+-7
+
+Cp-
+
+o(x/~)
+
+\\
+0
+
+-I"I
+
+-0 06
+I
+
+-020
+
+FI¢3. 15.
+
+- 00S
+
+-0 04
+I
+
+-0 10
+
+I
+
+-005
+
+-0 03
+
+-0"02
+
+'
+
+I
+
+'
+
+--0 01
+I
+
+I
+
+-002 -001-0005
+
+Y/c 0
+I
+
+X/cO
+
+00l
+
+0 02
+I
+
+I
+
+0005 001
+
+0-03
+I
+
+002
+
+'
+
+0 04
+'
+
+l
+
+005
+
+005
+I
+
+0 I0
+
+0-06
+I
+
+020
+
+Variation of normal-to-chord pressure distribution round nose at CLmax with x*/c, positior
+front edge of distributed roughness.
+
+32
+
+B
+
+0"04
+
+I
+
+lac= Z'88 x 106
+Sparse coatinq
+
+I
+I
+
+Dense
+
+I
+
+coating
+
+I
+I
+I
+/
+
+0.03 -
+
+j
+
+0
+
+/
+
+CD,clean wing
+and
+
+i
+
+/
+
+AC D
+
+- -
+
+/
+
+/
+0.02 -
+
+/
+
+(clean wing)
+
+/
+
+t
+
+A% fo~: t.E/
+
+/
+
+/
+
+w'
+
+i
+~y--
+
+~
+
+~
+
+T/
+liJ/
+a./
+
+.
+
+~o-----~
+
+Z
+
+!
+
+-
+
+. ~ + " -
+
+zy ~- - - - - - - - q , , ,
+
+A.
+
+zx
+,a
+
+--z?x- - - - - - -
+
+- I
+
+0"5
+
+,..
+
+I -0
+
+0
+
+,
+
+./II i"
+
+-------~~~--------'--
+
+-
+
+_
+
+-'-
+
+~ - a 0.5 - ca__.__-"/
+I
+
+"5
+
+FIG. 16. Variation with lift coefficient of clean wing drag coefficient, CD and drag increment due to various
+extents of sparse and dense coatings of distributed roughness on the upper surface.
+
+Printed in England for Her Majesty's Stationery Office by J. W. Arrowsmith Ltd, Bristol BS3 2NT
+Dd. 505715 K5 10/73
+
+33
+
+R o & M. No. 372~
+
+© Crown copyright 1973
+HER MAJESTY'S STATIONERY OFFICE
+Government Bookshops
+49 High Holborn, London WCIV 6HB
+13a Castle Street, Edinburgh EH2 3AR
+41 The Hayes, Cardiff CFI 1JW
+Brazennose Street, Manchester M60 8AS
+Wine Street, Bristol BS1 2BQ
+258 Broad Street, Birmingham BI 2HE
+80 Chichester Street, Belfast BTI 4JY
+Government pubfications are also available
+through booksellers
+
+R° & M° No. 372~
+I S B N 0 11 470526 "
+
+

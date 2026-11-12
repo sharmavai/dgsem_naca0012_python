@@ -1,0 +1,48 @@
+{
+ "reason": "wall_budget",
+ "steps": 114383,
+ "residual_orders": 4.162949737299543,
+ "wall_time_s": 520.0378649234772,
+ "forces": {
+  "Cl": 0.6397931520860523,
+  "Cd": 0.0001446199421300462,
+  "Cm": 0.007695766500012383,
+  "Cl_trace": 0.6400230998921355,
+  "Cd_trace": 4.048719812329432e-05,
+  "max_dp_wall": 0.032599354527372504
+ },
+ "entropy": {
+  "entropy_l2_domain": 0.00024753636513197584,
+  "entropy_l2_nearfield": 0.0002441110340451376
+ },
+ "case": {
+  "Mach": 0.3,
+  "alpha_deg": 5.0,
+  "n_half": 28,
+  "n_r": 21,
+  "N": 3,
+  "R_far": 50.0,
+  "h_wall": 0.014285714285714285,
+  "wake_align": true,
+  "flux": "roe",
+  "entropy_fix": 0.02,
+  "fix_all_waves": true,
+  "scheme": "rk4",
+  "cfl": 1.5,
+  "cfl_ramp_steps": 15000,
+  "farfield_vortex": true,
+  "vortex_update_every": 400,
+  "sponge_r0": 25.0,
+  "sponge_rate": 0.0,
+  "max_steps": 400000,
+  "res_drop_orders": 5.0,
+  "force_tol": 3e-05,
+  "monitor_every": 200,
+  "max_wall_s": 520.0,
+  "apply_limiter_every": 1,
+  "ckpt_every": 5000,
+  "tag": "mesh_L2_a5",
+  "save_field": true,
+  "resume": true
+ }
+}

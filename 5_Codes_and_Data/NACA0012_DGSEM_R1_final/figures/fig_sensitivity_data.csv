@@ -1,0 +1,8 @@
+variation,Cl_mean,Cl_amplitude,rel_delta_pct,reason,steps
+entropy fix 0.01,0.63026,0.05745,-1.513,wall_budget,62746
+entropy fix 0.03,0.63321,0.05481,-1.052,wall_budget,64485
+far field $R = 25c$,0.63103,0.05742,-1.393,wall_budget,64242
+far field $R = 100c$,0.63341,0.05089,-1.020,wall_budget,62070
+no vortex correction,0.62850,0.05613,-1.788,wall_budget,63203
+Rusanov flux,0.61958,0.06566,-3.182,wall_budget,56304
+sponge 0.01,0.63582,0.02020,-0.645,wall_budget,74935

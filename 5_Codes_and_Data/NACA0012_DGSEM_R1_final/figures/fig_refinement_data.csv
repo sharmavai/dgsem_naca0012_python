@@ -1,0 +1,8 @@
+study,label,n_circ,n_radial,Cl_mean,Cl_amplitude,Cl_final_monitor,steps,residual_orders,reason
+mesh,L1,40,15,0.63814,0.00314,0.63761,105116,4.26,wall_budget
+mesh,L2,56,21,0.63994,0.00877,0.63979,114383,4.16,wall_budget
+mesh,L3,80,30,0.62739,0.04872,0.61997,83678,2.60,wall_budget
+p,2,,,0.63842,0.00186,0.63864,85747,4.64,wall_budget
+p,3,,,0.63994,0.00877,0.63979,114383,4.16,wall_budget
+p,4,,,0.63862,0.01556,0.65017,33890,1.13,wall_budget
+p,5,,,0.63873,0.02327,0.62997,22936,1.22,wall_budget
